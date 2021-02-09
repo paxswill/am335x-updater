@@ -1,6 +1,0 @@
-# BeagleBone (and variants)
-am335x-bone*.dtb
-# Raspberry Pis
-bcm*.dtb
-# Allwinner H3-based Orange Pis (for Fingbox)
-sun8i-h3-orange-pi-*.dtb

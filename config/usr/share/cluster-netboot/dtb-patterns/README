@@ -1,7 +1,0 @@
-Files in this directory should be dpkg architectures (such as "armhf" or
-"arm64"). The contents of these files are rsync filter rules for files within
-the kernel's device tree directory (ex: "/usr/lib/linux-image-$(uname -r)/" on
-Debian, "/usr/lib/firmware/$(uname -r)/device-tree/" on Ubuntu) to be copied
-over to the netboot file share. For full details, see the "FILTER RULES" section
-of the rsync manual page, specifically the "INCLUDE/EXCLUDE PATTERN RULES"
-section.
